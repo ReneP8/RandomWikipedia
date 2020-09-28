@@ -1,5 +1,7 @@
 {
   "name": "randomWikipedia",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
